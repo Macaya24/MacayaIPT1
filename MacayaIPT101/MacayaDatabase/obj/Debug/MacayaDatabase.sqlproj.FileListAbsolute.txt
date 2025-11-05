@@ -1,0 +1,10 @@
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\bin\Debug\MacayaDatabase.dacpac
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\bin\Debug\MacayaDatabase.dll
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\bin\Debug\MacayaDatabase.pdb
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\obj\Debug\MacayaDatabase.sqlproj.AssemblyReference.cache
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\obj\Debug\Model.xml
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\obj\Debug\refactor.xml
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\obj\Debug\postdeploy.sql
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\obj\Debug\predeploy.sql
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\obj\Debug\MacayaDatabase.dll
+D:\Sajor\MacayaIPT101Solution\MacayaDatabase\obj\Debug\MacayaDatabase.pdb

@@ -1,0 +1,11 @@
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\bin\Debug\net9.0\MacayaDomain.deps.json
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\bin\Debug\net9.0\MacayaDomain.dll
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\bin\Debug\net9.0\MacayaDomain.pdb
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\MacayaDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\MacayaDomain.AssemblyInfoInputs.cache
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\MacayaDomain.AssemblyInfo.cs
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\MacayaDomain.csproj.CoreCompileInputs.cache
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\MacayaDomain.dll
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\refint\MacayaDomain.dll
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\MacayaDomain.pdb
+D:\Sajor\MacayaIPT101Solution\MacayaDomain\obj\Debug\net9.0\ref\MacayaDomain.dll
