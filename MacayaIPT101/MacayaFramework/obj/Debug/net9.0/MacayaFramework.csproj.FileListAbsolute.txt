@@ -1,0 +1,17 @@
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\bin\Debug\net9.0\MacayaFramework.deps.json
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\bin\Debug\net9.0\MacayaFramework.runtimeconfig.json
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\bin\Debug\net9.0\MacayaFramework.dll
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\bin\Debug\net9.0\MacayaFramework.pdb
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\bin\Debug\net9.0\MacayaDomain.dll
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\bin\Debug\net9.0\MacayaDomain.pdb
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.csproj.AssemblyReference.cache
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.AssemblyInfoInputs.cache
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.AssemblyInfo.cs
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.csproj.CoreCompileInputs.cache
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFr.9BA3A687.Up2Date
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.dll
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\refint\MacayaFramework.dll
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.pdb
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\MacayaFramework.genruntimeconfig.cache
+D:\Sajor\MacayaIPT101Solution\MacayaFramework\obj\Debug\net9.0\ref\MacayaFramework.dll
