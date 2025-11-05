@@ -1,3 +1,0 @@
-﻿EXEC deleteSmartPhone @Id = '6A3F26EE-297A-43CF-87E7-30A46032516C';
-
-SELECT * FROM SmartPhone;
